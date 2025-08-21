@@ -23,8 +23,7 @@ Permite visualizar informações dos Pokémon, incluindo tipos traduzidos em por
 2.	git clone https://github.com/GuiAlve/pokedex.git
 
 3.	Entre na pasta do projeto:
-5.	Abra o arquivo index.html diretamente no navegador.
-o	Não precisa de servidor nem dependências extras.
+5.	Abra o arquivo index.html diretamente no navegador. Não precisa de servidor nem dependências extras.
 
 ---
 <img width="1591" height="726" alt="Captura de tela 2025-08-21 100023" src="https://github.com/user-attachments/assets/f3846826-1636-4c85-bc72-f1e15fb1449e" />
