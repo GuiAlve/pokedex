@@ -19,7 +19,7 @@ Permite visualizar informações dos Pokémon, incluindo tipos traduzidos em por
 - [PokéAPI](https://pokeapi.co/) 
 
 ## 🚀 Como executar
-1.	Clone este repositório:
+1.	Clone este repositório, ou baixe o arquivo do projeto:
 2.	git clone https://github.com/GuiAlve/pokedex.git
 
 3.	Entre na pasta do projeto:
